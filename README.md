@@ -1,16 +1,14 @@
-# drag
 
-A new Flutter project.
+# MacOS Dock Flutter App
 
-## Getting Started
+A Flutter application that demonstrates a draggable dock with customizable icons. The dock allows users to drag and rearrange icons, with smooth animations and hover effects.
 
-This project is a starting point for a Flutter application.
+## Demo
+ https://ahmed-algzery.github.io/Dragable/
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Draggable Icons**: Users can drag and drop icons to rearrange them in the dock.
+- **Hover Effects**: Icons animate when hovered over, providing visual feedback.
+- **Customizable**: Easily customize the icons and their appearance.
+- **Smooth Animations**: Built with Flutter's animation framework for a smooth user experience.
